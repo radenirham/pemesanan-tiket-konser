@@ -1,5 +1,6 @@
 # pemesanan-tiket-konser
 Aplikasi pemesanan tiket konser
+
 **Admin Default Account**
 
 -   username: admin
@@ -12,7 +13,7 @@ Aplikasi pemesanan tiket konser
 1. **Clone Repository**
 
 ```bash
-git clone 
+git clone https://github.com/radenirham/pemesanan-tiket-konser.git
 cd Ticket-Laravel
 composer install
 cp .env.example .env
