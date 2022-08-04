@@ -23,7 +23,7 @@ cp .env.example .env
 
 ```bash
 DB_PORT=3306
-DB_DATABASE=laravel
+DB_DATABASE=ticketonline
 DB_USERNAME=root
 DB_PASSWORD=
 ```
