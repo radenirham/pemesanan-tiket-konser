@@ -6,6 +6,9 @@ Aplikasi pemesanan tiket konser
 -   username: admin
 -   Password: admin123
 
+**User Default Account**
+-   username: user1
+-   Password: user12345
 ---
 
 ## Install
